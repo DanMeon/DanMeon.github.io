@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /posts/:year/:month/:day/:title/
 modal-id: 5
 img: python.png
 alt: image-alt

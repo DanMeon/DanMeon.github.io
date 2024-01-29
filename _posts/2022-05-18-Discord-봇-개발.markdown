@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /posts/:year/:month/:day/:title/
 modal-id: 3
 img: discord.png
 alt: image-alt
