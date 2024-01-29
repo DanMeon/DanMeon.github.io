@@ -3,5 +3,5 @@ layout: default
 modal-id: 1
 img: arduino.png
 alt: image-alt
-description: "· Python MQTT(Mosquitto)와 Arudino ESP32를 활용하여 유량 센서를 통해 유체의 흐름을 실시간으로 감지하여 그래프로 띄워주거나 LED로 유량을 시각적으로 표기하는 제품<br/><br/>·주요 기능<br/>Arudino 유량 센서를 통해 유량을 측정하여 시계열 데이터베이스인 InfluxDB에 저장하고 유량에 따라 LED의 색깔 변화를 통해 적정 유량이 흐르고 있는지 확인함. 이후 측정된 유량 데이터는 Grafana를 통해 시각화하여 확인할 수 있게함<br/><br/>· 기술 스택<br/>[백엔드] Python MQTT, Arduino, InfluxDB<br/>[프론트엔드] Grafana<br/><br/>· 느낀 점<br/>InfluxDB와 Grafana를 실제 프로젝트에서 처음 사용해본 사례로, 센서로 측정된 실시간 데이터가 그대로 Grafana에 연동되어 시각화할 수 있다는 점이 매우 흥미롭게 느껴졌습니다.<br/>본 프로젝트는 한 업체에서 요청한 기능을 구현하는 것이 목표였는데, 업체 요구사항에 따라 다양하게 알고리즘을 짜고 생각을 새롭게 펼쳐나가는 등 좋은 경험이 되었습니다."
+description: "· Python MQTT(Mosquitto)와 Arudino ESP32를 활용하여 유량 센서를 통해 유체의 흐름을 실시간으로 감지하여 그래프로 띄워주거나 LED로 유량을 시각적으로 표기하는 제품<br/><br/>· 주요 기능<br/>Arudino 유량 센서를 통해 유량을 측정하여 시계열 데이터베이스인 InfluxDB에 저장하고 유량에 따라 LED의 색깔 변화를 통해 적정 유량이 흐르고 있는지 확인함. 이후 측정된 유량 데이터는 Grafana를 통해 시각화하여 확인할 수 있게함<br/><br/>· 기술 스택<br/>[백엔드] Python MQTT, Arduino, InfluxDB<br/>[프론트엔드] Grafana<br/><br/>· 느낀 점<br/>InfluxDB와 Grafana를 실제 프로젝트에서 처음 사용해본 사례로, 센서로 측정된 실시간 데이터가 그대로 Grafana에 연동되어 시각화할 수 있다는 점이 매우 흥미롭게 느껴졌습니다.<br/>본 프로젝트는 한 업체에서 요청한 기능을 구현하는 것이 목표였는데, 업체 요구사항에 따라 다양하게 알고리즘을 짜고 생각을 새롭게 펼쳐나가는 등 좋은 경험이 되었습니다."
 ---
