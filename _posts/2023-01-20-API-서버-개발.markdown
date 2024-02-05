@@ -2,7 +2,7 @@
 layout: default
 permalink: /posts/:year/:month/:day/:title/
 modal-id: 4
-img: python.png
+img: fastapi.png
 alt: image-alt
 description: "· Python 웹 프레임워크인 FastAPI를 활용, 쇼핑몰 어플리케이션과 연동하는 API 서버<br/><br/>·주요 기능<br/>회원가입, 로그인 등 기본적인 회원 관리 기능뿐만이 아니라, 쇼핑몰 어플리케이션에 필요한 전반적인 기능들(제품 구매, 제품 정보 표기, 커뮤니티 기능 등) 또한 포함<br/><br/>· 기술 스택<br/>[백엔드] Docker, Mysql, Redis, S3, EC2, Loadbalancer<br/>[프론트엔드] Kotlin<br/><br/>· 느낀 점<br/>본 API 서버를 만들면서 백엔드쪽에 대한 지식을 다방면으로 향상시킬 수 있는 소중한 경험을 가질 수 있었습니다.<br/>비록 시작부터 마무리 단계까지 독학으로 진행하여 아직 많은 부족함이 있지만 이렇게 배워나가는 경험이 저에겐 상당한 재미로 느껴져 이러한 문제점들은 백엔드 경험을 쌓으면서 해결할 수 있을 것이라고 예상하고 있습니다."
 ---
