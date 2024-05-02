@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /posts/:year/:month/:day/:title/
+modal-id: 5
+img: in_progress.png
+alt: image-alt
+description: "
+<span style='color:#0000CD'>① Kubernetes</span><br>
+- Docker와 Docker Compose를 사용하면서 복잡했던 빌드와 배포 과정을 간단한 파일 몇 개와 명령어로 줄일 수 있어 많은 편의를 느꼈습니다. 이러한 경험을 바탕으로 여러 컨테이너를 효과적으로 관리할 수 있는 Kubernetes에도 관심이 생겼습니다. 현재 강의를 통해 Kubernetes의 다양한 기능과 사용법을 배우고 있으며, 이를 통해 시스템 운영의 효율성을 더욱 높일 수 있기를 기대하고 있습니다. Kubernetes 학습은 Docker 경험을 바탕으로 보다 복잡한 시스템의 관리와 최적화에 대한 이해를 깊게 할 수 있는 좋은 기회가 될 수 있을 것이라고 기대하고 있습니다<br>
+<br>
+<span style='color:#0000CD'>② Jenkins</span><br>
+- Jenkins에 대한 이해는 아직 초기 단계이지만, 이 도구가 Kubernetes와 자주 연계되어 사용된다는 점에서 그 중요성을 인식하고 있습니다. CI/CD(지속적 통합 및 지속적 배포)에 대한 기본적인 지식을 바탕으로, 점차 Jenkins를 통해 더욱 체계적이고 자동화된 소프트웨어 개발 및 배포 프로세스를 구축하는 방법을 배우고 싶습니다. 현재는 Jenkins의 다양한 기능과 설정에 대해 조금씩 배우고 있으며, 이 과정이 다소 어렵게 느껴지기도 합니다. 하지만 이 도전을 통해 개발 작업의 효율성을 높이는 것이 목표입니다.<br>
+<br>
+<span style='color:#0000CD'>③ FastAPI & RESTful API</span><br>
+- 현재 FastAPI를 기반으로 몇 가지 프로저트를 진행하고 있으나, 아직 이 프레임워크를 완전히 활용하고 있지 않다고 느끼고 있습니다. 이에 FastAPI 문서를 꼼꼼히 살펴보고 RESTful API의 개념을 더 깊이 이해하고자 노력 중입니다. 이전에는 Django를 학습할 계획이었지만 WSGI 기반의 구조와 비교적 경직된 아키텍처를 가진 Django보다는 FastAPI가 더 다양한 기능을 제공하는 것처럼 느껴져, FastAPI의 스킬을 더욱 키우기로 결정했습니다. 그럼에도 불구하고 개인적인 호기심으로 Django를 활용한 프로젝트도 시도해보고 싶은 마음이 있습니다.
+"
+---
