@@ -47,6 +47,24 @@ hr.star-primary {
     overflow: visible;
 }
 
+hr.divider {
+    border: 0;
+    width: 50%;
+    height: 2px;
+    background: #000;
+}
+
+hr.divider-light {
+    border: 0;
+    width: 50%;
+    height: 2px;
+    background: #fff;
+}
+
+.space {
+    margin-top: 20px; /* 원하는 크기로 변경 */
+}
+
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
